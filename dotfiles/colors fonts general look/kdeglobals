@@ -1,0 +1,150 @@
+[$Version]
+update_info=filepicker.upd:filepicker-remove-old-previews-entry
+
+[ColorEffects:Disabled]
+ChangeSelectionColor=
+Color=56,56,56
+ColorAmount=0
+ColorEffect=0
+ContrastAmount=0.65
+ContrastEffect=1
+Enable=
+IntensityAmount=0.1
+IntensityEffect=2
+
+[ColorEffects:Inactive]
+ChangeSelectionColor=true
+Color=112,111,110
+ColorAmount=0.025000000000000001
+ColorEffect=2
+ContrastAmount=0.10000000000000001
+ContrastEffect=2
+Enable=false
+IntensityAmount=0
+IntensityEffect=0
+
+[Colors:Button]
+BackgroundAlternate=64,69,82
+BackgroundNormal=30,34,51
+DecorationFocus=197,14,210
+DecorationHover=170,0,0
+ForegroundActive=61,174,233
+ForegroundInactive=102,106,115
+ForegroundLink=41,128,185
+ForegroundNegative=237,37,78
+ForegroundNeutral=255,106,0
+ForegroundNormal=195,199,209
+ForegroundPositive=113,247,159
+ForegroundVisited=82,148,226
+
+[Colors:Selection]
+BackgroundAlternate=29,153,243
+BackgroundNormal=156,146,146
+DecorationFocus=197,14,210
+DecorationHover=170,0,0
+ForegroundActive=252,252,252
+ForegroundInactive=211,218,227
+ForegroundLink=253,188,75
+ForegroundNegative=237,37,78
+ForegroundNeutral=255,106,0
+ForegroundNormal=254,254,254
+ForegroundPositive=113,247,159
+ForegroundVisited=189,195,199
+
+[Colors:Tooltip]
+BackgroundAlternate=47,52,63
+BackgroundNormal=53,57,69
+DecorationFocus=197,14,210
+DecorationHover=170,0,0
+ForegroundActive=61,174,233
+ForegroundInactive=102,106,115
+ForegroundLink=41,128,185
+ForegroundNegative=237,37,78
+ForegroundNeutral=255,106,0
+ForegroundNormal=211,218,227
+ForegroundPositive=113,247,159
+ForegroundVisited=82,148,226
+
+[Colors:View]
+BackgroundAlternate=31,35,51
+BackgroundNormal=23,26,26
+DecorationFocus=197,14,210
+DecorationHover=170,0,0
+ForegroundActive=0,193,228
+ForegroundInactive=102,106,115
+ForegroundLink=82,148,226
+ForegroundNegative=237,37,78
+ForegroundNeutral=255,106,0
+ForegroundNormal=211,218,227
+ForegroundPositive=113,247,159
+ForegroundVisited=124,183,255
+
+[Colors:Window]
+BackgroundAlternate=47,52,63
+BackgroundNormal=28,32,46
+DecorationFocus=197,14,210
+DecorationHover=170,0,0
+ForegroundActive=61,174,233
+ForegroundInactive=102,106,115
+ForegroundLink=41,128,185
+ForegroundNegative=237,37,78
+ForegroundNeutral=255,106,0
+ForegroundNormal=211,218,227
+ForegroundPositive=113,247,159
+ForegroundVisited=179,13,191
+
+[DirSelect Dialog]
+DirSelectDialog Size=839,573
+History Items[$e]=file:$HOME/ScreenRecordings,file:$HOME/ScreenRecordings,file:$HOME/Downloads/Courses,file:$HOME/Downloads/Courses,file:$HOME/Downloads,file:///usr/bin,file:$HOME,file:$HOME,file:$HOME/Downloads/Games,file:$HOME/Downloads/Games,file:$HOME/Downloads/Games,file:$HOME/Downloads/Games,file:$HOME/Downloads/Games,file:$HOME/Downloads/Games,file:$HOME/Downloads/MoeDark,file:$HOME/Downloads/KvantumGently-Kv,file:$HOME/Downloads/themes/Sweet-transparent-toolbar,file:$HOME/Downloads/themes/Sweet-transparent-toolbar,file:$HOME/Downloads/kvroughglass-for-kvantum/KvRoughGlass,file:$HOME/Downloads/kvroughglass-for-kvantum/KvRoughGlass,file:$HOME/Downloads/kvroughglass-for-kvantum/AuroraeKvRoughGlass,file:$HOME/Downloads/kvroughglass-for-kvantum,file:$HOME/Downloads/Harmony,file:$HOME/Downloads/com.github.yeyushengfan258.Harmony,file:$HOME/Downloads/themes/Sweet-transparent-toolbar,file:$HOME/Downloads/Sweet-transparent-toolbar,file:$HOME/Downloads/Sweet/widgets,file:$HOME/Downloads/Sweet
+Splitter State=\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x02\x00\x00\x00\x8c\x00\x00\x02\xa8\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+
+[General]
+ColorSchemeHash=dd75fafdeef61537ebf35ab36258088e98f996e5
+TerminalApplication=kitty
+TerminalService=kitty.desktop
+XftHintStyle=hintslight
+XftSubPixel=none
+fixed=JetBrainsMono Nerd Font Mono,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+font=JetBrainsMono Nerd Font Mono,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+menuFont=JetBrainsMono Nerd Font Mono,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+smallestReadableFont=JetBrainsMono Nerd Font Mono,8,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+toolBarFont=JetBrainsMono Nerd Font Mono,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+
+[Icons]
+Theme=YAMIS
+
+[KDE]
+AnimationDurationFactor=0.7071067811865475
+LookAndFeelPackage=Sweet-Mars
+widgetStyle=kvantum-dark
+
+[KFileDialog Settings]
+Allow Expansion=false
+Automatically select filename extension=false
+Breadcrumb Navigation=true
+Decoration position=2
+LocationCombo Completionmode=5
+PathCombo Completionmode=5
+Show Full Path=false
+Show Inline Previews=true
+Show Preview=false
+Show Speedbar=true
+Show hidden files=true
+Sort by=Name
+Sort directories first=true
+Sort hidden files last=false
+Sort reversed=false
+Speedbar Width=140
+View Style=Simple
+
+[Sounds]
+Theme=oxygen
+
+[WM]
+activeBackground=47,52,63
+activeBlend=47,52,63
+activeFont=JetBrainsMono Nerd Font Mono,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+activeForeground=211,218,227
+inactiveBackground=47,52,63
+inactiveBlend=47,52,63
+inactiveForeground=102,106,115
